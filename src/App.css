@@ -65,7 +65,7 @@ body{
   list-style-type: none;
   /* background-color: #596e8b; */
   border:2px solid #0fe380;
-  color:#ec1576;
+  color:#17030c;
   padding:3px;
   padding-left: 5px;
   border-radius: 5px; 
@@ -90,5 +90,5 @@ body{
   transform: scale(1.2);  
 }
 .icon-delete:hover{
-  color: #ff0084;
+  color: #f2e8ed;
 }
