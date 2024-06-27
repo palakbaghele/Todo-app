@@ -18,7 +18,7 @@ body{
 .app-heading{
   padding: 4px;
   color: rgb(10, 1, 6);  
-  /* text-align: center; */
+   text-align: center; 
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-transform: uppercase;
 }
